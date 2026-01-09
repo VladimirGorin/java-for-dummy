@@ -1,0 +1,4 @@
+Add borders
+Add some texture to circle
+Add gravity
+Add other classes
